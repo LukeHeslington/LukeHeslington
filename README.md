@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm Luke Heslington, a computer engineer with a passion for game development and problem-solving. Here's a bit more about me and what I'm working on.
+Welcome to my GitHub profile!
 
 ## About Me
 
@@ -62,5 +62,6 @@ Feel free to contribute to my projects! Here’s how you can help:
 --->
 ---
 
+<!--
 **Thank you for visiting my profile!** If you have any questions or just want to connect, feel free to reach out.
-
+-->
