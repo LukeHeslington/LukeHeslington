@@ -50,7 +50,7 @@ I'm a computer engineer with a master's degree. I'm a versatile programmer skill
 
 ## Stack Overflow
 
-[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/1234567)](https://stackoverflow.com/users/1234567/username)
+[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/6040789)](https://stackoverflow.com/users/6040789/luke-h)
 <!--
 ## Contribution Guidelines
 
